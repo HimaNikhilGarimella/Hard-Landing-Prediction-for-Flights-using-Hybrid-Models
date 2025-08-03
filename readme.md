@@ -97,6 +97,16 @@ The application is built with:
 - Pandas and NumPy for data processing
 - Scikit-learn for machine learning models
 - Plotly for interactive visualizations
+  
+## Screenshots 
+
+<img width="1334" height="612" alt="image" src="https://github.com/user-attachments/assets/2866ece4-5467-4219-8f05-631e1f3e2da7" />
+
+<img width="944" height="461" alt="image" src="https://github.com/user-attachments/assets/90db2040-55a6-4ff5-be68-bafc0660c681" />
+
+<img width="487" height="549" alt="image" src="https://github.com/user-attachments/assets/f6382384-3a1d-4d84-9a62-0a0797af2d5e" />
+
+
 
 ## Educational Resources
 
